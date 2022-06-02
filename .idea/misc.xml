@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mascodys/app/src/main/res/layout/activity_administrador.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/activity_cliente.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/activity_mascodys_lgo.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/activity_veterinario.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/app_bar_menu.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/content_menu.xml" value="0.22" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/fragment_gallery.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/fragment_levi.xml" value="0.25" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/fragment_slideshow.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/layout/nav_header_menu.xml" value="0.2" />
+        <entry key="..\:/Mascodys/app/src/main/res/menu/activity_main_drawer.xml" value="0.75" />
+        <entry key="..\:/Mascodys/app/src/main/res/menu/menu_.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
